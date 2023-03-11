@@ -1,8 +1,0 @@
-Self Organizing List
-    -Transpose method
-    algorithm:
-    At the t-th item selection:
-    if item i is selected:
-        if i is not the head of list:
-            swap item i with item (i - 1)
-            
